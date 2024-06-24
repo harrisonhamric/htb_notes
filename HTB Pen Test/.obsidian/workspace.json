@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2779ae6fb91d63f7",
+    "id": "5417c2e7ae52b55e",
     "type": "split",
     "children": [
       {
-        "id": "49a65070adeec7ff",
+        "id": "3e047daa5ad11e09",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e8844204358bcb",
+            "id": "e19105e656934fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "43d7c50e3ab5facf",
+            "id": "45a2d2419ea2ae23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,47 +30,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f2b7f3beeae53cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d49f015ddc3e320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a63f5a9f6fdeaa5e",
+    "id": "ea291e3fcf834b70",
     "type": "split",
     "children": [
       {
-        "id": "5f333d89b07860e2",
+        "id": "fbe0edba2c7d8259",
         "type": "tabs",
         "children": [
           {
-            "id": "1a05659e575a2a34",
+            "id": "e6543acc8e17242b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +55,7 @@
             }
           },
           {
-            "id": "16995dc5abcc805f",
+            "id": "33f869ea54b41643",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +70,7 @@
             }
           },
           {
-            "id": "86f4ace565ea92cb",
+            "id": "1c5b06816eccbc2c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,20 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "2d5f15b72b6aee08",
+    "id": "ab1d559be1225302",
     "type": "split",
     "children": [
       {
-        "id": "37229cdef50099cb",
+        "id": "7fd0265f3d65e140",
         "type": "tabs",
         "children": [
           {
-            "id": "af7c270b8e6356fa",
+            "id": "07a6e5bb060be586",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +109,19 @@
             }
           },
           {
-            "id": "6d0aaaf470d5ec5b",
+            "id": "ba2daa3d1057b58c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a699bdd2394d24b7",
+            "id": "8de81f3d40641117",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +132,12 @@
             }
           },
           {
-            "id": "370da596a647cd35",
+            "id": "87ef959d70fd49f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -183,11 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d49f015ddc3e320",
+  "active": "e6543acc8e17242b",
   "lastOpenFiles": [
-    "Shells.md",
-    "Privilege Escalation.md",
-    "Welcome.md",
-    "Windows Fundamentals.md"
+    "Untitled",
+    "Windows Fundamentals.md",
+    "Welcome.md"
   ]
 }
